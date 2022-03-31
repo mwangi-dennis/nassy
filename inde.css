@@ -1,0 +1,54 @@
+body{
+  background-color: wheat;
+}
+h3::first-letter{
+  color: teal;
+  font-size: 200px
+}
+#me{
+  text-align: center;
+  font-size: 50px;
+  color;orange;
+}
+#you{
+  display: block;
+  border-radius: 70%;
+  position:relative;
+  left: 550px;
+}
+.esther {
+  text-align: center;
+  color: orange;
+  font-size: 30px;
+}
+p{
+  text-align:center;
+  color: teal;
+}
+.esther:hover{
+  color:teal;
+}
+.jibo{
+  color: teal;
+  font-size: 40px;
+}
+#my-shei{
+  background-color: teal;
+  color:orange;
+  text-transform: uppercase;
+  teaxt-aling:center;
+  font-size: 20px;
+  left: 870px;
+  font-weight: bold;
+  position: relative;
+}
+#my-shei:hover{
+  background-color: green;
+  color:red;
+  font-size: 30px;
+  width: 300px;
+  height: 50px;
+}
+#you:hover{
+  transform: scale(1.1);
+}
